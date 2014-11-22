@@ -1,6 +1,6 @@
 # Copter.io
 
-The web development is on *Front Era* now. Backbone, Angular, React based applications are adopted and developed by companies who’s goal to provide superior user experience in browser.
+The web development is in *Front Era* now. Backbone, Angular, React based applications are adopted and developed by companies who’s goal to provide superior user experience in browser.
 
 Pure front-end applications and no-backend movement requires an easy to use front-end (static) applications hosting and automation.
 
@@ -8,7 +8,7 @@ Copter.io provides a service for hosting and maintaining static applications in 
 
 ## What's the value?
 
-We provide value for developers who work on frontend applications using HTML/CSS/JS and requires a platform to host their applications.
+We provide value for developers who work on frontend applications using HTML/CSS/JS and requires a platform to host their apps.
 
 It’s free for open source projects and educational projects (blogs, student communities, science etc.). For commercial there is a subscription plan.
 
@@ -51,7 +51,7 @@ $ git add . && git commit -m "my static application"`
 5. Create new application
 
 ```bash
-$ copter create-app
+$ copter create
 copter.io: front-end deployment tool
 
 ---> creating new application "funky-rabbit-mx12.copter.io"...
@@ -80,6 +80,6 @@ $ git push staging master
 
 ## Anything else?
 
-Yes, we are open source organization all `copter.io` code is available on [github]() under MIT? licence and you are free to use for your needs.
+Yes, we are open source organization all `copter.io` code is available on [GitHub](https://github.io/copter) under MIT? licence and you are free to use for your needs.
 
 We are charging only for hosting and support.
