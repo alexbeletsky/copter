@@ -1,14 +1,14 @@
 # Copter.io
 
-The web development is in *Front Era* now. Backbone, Angular, React based applications are adopted and developed by companies who’s goal to provide superior user experience in browser.
+The web development is currently in *Front End Era*. Backbone, Angular, React (you name it) based applications are adopted and developed by companies who’s goal to provide superior user experience in browser.
 
-Pure front-end applications and no-backend movement requires an easy to use front-end (static) applications hosting and automation.
+*Pure* front-end applications and *no-backend* movement requires an easy to use front-end (static) applications hosting and management.
 
-Copter.io provides a service for hosting and maintaining static applications in cool way. No more FTP madness, pure git management + cli for configuration.
+Copter.io provides a service for hosting static applications in cool way. No more FTP uploads, pure `git` management + `cli` for configuration.
 
 ## What's the value?
 
-We provide value for developers who work on frontend applications using HTML/CSS/JS and requires a platform to host their apps.
+We provide value for developers who work on frontend applications using HTML/CSS/JS and require a platform to host their apps.
 
 It’s free for open source projects and educational projects (blogs, student communities, science etc.). For commercial there is a subscription plan.
 
@@ -16,7 +16,7 @@ It’s free for open source projects and educational projects (blogs, student co
 
 * Single Page Applications - utilizing modern front end development frameworks and consuming data of HTTP API's.
 
-* Static Pages - landing pages, marketing sites, blogs, galleries
+* Static Pages - landing pages, marketing sites, blogs, galleries.
 
 * Static Resources - JavaScript, images, CSS deployed on CDN for fastest possible access.
 
