@@ -77,3 +77,9 @@ $ git push staging master
 ```
 
 7. Open browser and hit [funky-rabbit-mx12.copter.io](http://funky-rabbit-mx12.copter.io)
+
+## Anything else?
+
+Yes, we are open source organization all `copter.io` code is available on [github]() under MIT? licence and you are free to use for your needs.
+
+We are charging only for hosting and support.
