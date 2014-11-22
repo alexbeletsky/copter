@@ -4,13 +4,7 @@ The web development is currently in *Front End Era*. Backbone, Angular, React (y
 
 *Pure* front-end applications and *no-backend* movement requires an easy to use front-end (static) applications hosting and management.
 
-Copter.io provides a service for hosting static applications in cool way. No more FTP uploads, pure `git` management + `cli` for configuration.
-
-## What's the value?
-
-We provide value for developers who work on frontend applications using HTML/CSS/JS and require a platform to host their apps.
-
-It’s free for open source projects and educational projects (blogs, student communities, science etc.). For commercial there is a subscription plan.
+Copter.io provides a service for hosting static applications in cool way. No more FTP uploads, pure `git` management + `cli` for configuration. We provide value for developers who work on frontend applications using HTML/CSS/JS and require a platform to host their apps.
 
 ## What type of projects?
 
@@ -63,11 +57,11 @@ http://funky-rabbit-mx12.copter.io
 
 To deploy app to staging,
 
-$ git push staging master
+	$ git push staging master
 
 To deploy app to production,
 
-$ git push production master
+	$ git push production master
 ```
 
 6. Deploy application to stage, to just see the changes
@@ -76,7 +70,7 @@ $ git push production master
 $ git push staging master
 ```
 
-7. Open browser and hit [funky-rabbit-mx12.copter.io](http://funky-rabbit-mx12.copter.io)
+7. Open browser and hit [http://funky-rabbit-mx12.copter.io](http://funky-rabbit-mx12.copter.io)
 
 ## Anything else?
 
