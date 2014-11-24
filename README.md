@@ -23,25 +23,21 @@ As simple as you use GitHub.
 ```bash
 $ git init
 ```
-
 2. Install copter cli
 
 ```bash
 $ npm install -g copter-cli
 ```
-
 3. Generate single page app with Yeoman
 
 ```bash
 $ yo generate angular-static
 ```
-
 4. Commit code to git
 
 ```bash
 $ git add . && git commit -m "my static application"`
 ```
-
 5. Create new application
 
 ```bash
@@ -63,13 +59,11 @@ To deploy app to production,
 
 	$ git push production master
 ```
-
 6. Deploy application to stage, to just see the changes
 
 ```bash
 $ git push staging master
 ```
-
 7. Open browser and hit [http://funky-rabbit-mx12.copter.io](http://funky-rabbit-mx12.copter.io)
 
 ## Anything else?
