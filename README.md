@@ -4,7 +4,7 @@ The web development is currently in *Front End Era*. Backbone, Angular, React (y
 
 *Pure* front-end applications and *no-backend* movement requires an easy to use front-end (static) applications hosting and management.
 
-Copter.io provides a service for hosting static applications in cool way. No more FTP uploads, pure `git` management + `cli` for configuration. We provide value for developers who work on frontend applications using HTML/CSS/JS and require a platform to host their apps.
+Copter.io provides a service for hosting static applications in cool way. No more FTP uploads, pure `git` management + `cli` for configuration. We provide value for developers who work on front end applications using HTML/CSS/JS and require a platform to host their apps.
 
 ## What type of projects?
 
@@ -74,6 +74,6 @@ Open browser and hit [http://funky-rabbit-mx12.copter.io](http://funky-rabbit-mx
 
 ## Anything else?
 
-Yes, we are open source organization all `copter.io` code is available on [GitHub](https://github.io/copter) under MIT? licence and you are free to use for your needs.
+Yes, we are open source organization all `copter.io` code is available on [GitHub](https://github.io/copter) under MIT? license and you are free to use for your needs.
 
 We are charging only for hosting and support.
