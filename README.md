@@ -72,6 +72,10 @@ $ git push staging master
 
 Open browser and hit [http://funky-rabbit-mx12.copter.io](http://funky-rabbit-mx12.copter.io)
 
+## What to help?
+
+Please give a feedback by this [survey](https://github.com/alexanderbeletsky/copter).
+
 ## Anything else?
 
 Yes, we are open source organization all `copter.io` code is available on [GitHub](https://github.io/copter) under MIT? license and you are free to use for your needs.
