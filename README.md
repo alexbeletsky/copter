@@ -74,7 +74,7 @@ Open browser and hit [http://funky-rabbit-mx12.copter.io](http://funky-rabbit-mx
 
 ## What to help?
 
-Please give a feedback by this [survey](https://github.com/alexanderbeletsky/copter).
+Please give a feedback by this [survey](https://frontenddev.typeform.com/to/iuvtz4).
 
 ## Anything else?
 
